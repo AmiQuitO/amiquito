@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, AmiQuitO // Konrad Hoffmann Silva here 👋
 - 🔭 I’m currently working on mastering JavaScript
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, MySQL, PHP, C#
 - 📫 How to reach me: 
