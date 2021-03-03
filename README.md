@@ -1,13 +1,13 @@
 ### Hi, AmiQuitO // Konrad Hoffmann Silva here 👋
 
-🌱 I’m currently learning HTML5, CSS3, JavaScript, MySQL, PHP, C#
-🔭 I’m currently working on mastering JavaScript
-📫 How to reach me: 
+🌱 I’m currently learning HTML5, CSS3, JavaScript, MySQL, PHP, C# </br>
+🔭 I’m currently working on mastering JavaScript </br>
+📫 How to reach me: </br>
 
 - Discord: AmiQuitO#2417
 - amiquitooriginal@gmail.com
 
-⚡ Fun fact: 
+⚡ Fun fact: </br>
 
 - I don't like python, it makes me go crazy!
 - C# is the best!
