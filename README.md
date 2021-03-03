@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on mastering JavaScript
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, MySQL, PHP, C#
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: amiquitooriginal@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: I don't like python, it makes me go crazy!
+- 📫 How to reach me: 
+- Discord: AmiQuitO#2417
+- amiquitooriginal@gmail.com
+- ⚡ Fun fact: 
+- I don't like python, it makes me go crazy!
+- C# is the best
