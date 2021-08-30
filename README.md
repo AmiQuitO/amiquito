@@ -4,7 +4,7 @@
 🔭 I’m currently working on mastering JavaScript </br>
 📫 How to reach me: </br>
 
-- Discord: AmiQuitO#2417
+- Discord: AmiQuitO#4444
 - amiquitooriginal@gmail.com
 
 ⚡ Fun fact: </br>
