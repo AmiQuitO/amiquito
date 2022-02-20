@@ -1,12 +1,12 @@
 # Hi, AmiQuitO  <!-- // Konrad Hoffmann Silva --> here 👋
 
-### Personal info
-Im 16yo
-Pronouns: Sus/Amogus
+### Personal info </br>
+Im 16yo </br>
+Pronouns: Sus/Amogus </br></br>
 
-### What im working on
-Small js/html projects
-Some games with C#/Unity
+### What im working on </br>
+Small js/html projects </br> 
+Some games with C#/Unity </br>
 
 
 
