@@ -7,6 +7,7 @@ Pronouns: Sus/Amogus </br></br>
 ### What im working on </br>
 Small js/html projects </br> 
 Some games with C#/Unity </br>
+Python? 😱
 
 
 
