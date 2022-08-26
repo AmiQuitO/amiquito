@@ -6,8 +6,7 @@ Pronouns: Sus/Amogus </br></br>
 
 ### What im working on </br>
 Small js/html projects </br> 
-Some games with C#/Unity </br>
-Python? 😱
+C++ projects </br>
 
 
 
@@ -15,7 +14,7 @@ Python? 😱
 🔭 I’m currently working on mastering JavaScript </br>
 📫 How to reach me: </br>
 
-- Discord: AmiQuitO#4444
+- Discord: AmiQuitO#0831 (best way)
 - amiquitooriginal@gmail.com
 
 ⚡ Fun fact: </br>
