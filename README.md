@@ -1,7 +1,7 @@
 # Hi, AmiQuitO  <!-- // Konrad Hoffmann Silva --> here 👋
 
 ### Personal info </br>
-Im 16yo </br>
+Im 17yo </br>
 Pronouns: Sus/Amogus </br></br>
 
 ### What im working on </br>
