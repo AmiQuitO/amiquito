@@ -1,13 +1,13 @@
 # Hi, AmiQuitO  <!-- // Konrad Hoffmann Silva --> here 👋
 
-### Personal info </br>
+### Personal info
 Im 18yo </br>
 Pronouns: Sus/Amogus </br></br>
 
-### What im working on </br>
+### What im working on
 Anything that takes my interest</br></br>
 
-### Contact </br>
+### Contact
 Want to talk to me? </br>
 Here you have some contact: </br>
  - Discord: amiquito
