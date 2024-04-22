@@ -9,7 +9,7 @@ Anything that takes my interest</br></br>
 
 ### Contact
 Want to talk to me? </br>
-Here you have some contact: </br>
+Contact me here: </br>
  - Discord: amiquito
  - amiquitooriginal@gmail.com
 
