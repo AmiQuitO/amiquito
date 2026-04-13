@@ -19,3 +19,5 @@ Welcome to my GitHub profile! I'm an **Applied Informatics** student from **Tarn
 - 🎬 **Cinema:** Huge fan of international cinema and Oscar-nominated films.
 - 🕹️ **Gaming:** Huge fan of **indie roguelikes**.
 - ⛓️ **Tech Trends:** Keeping an eye on cryptocurrency and blockchain developments.
+
+<!--https://shields.io/-->
