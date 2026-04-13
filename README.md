@@ -1,42 +1,23 @@
-# Hi, AmiQuitO  <!-- // Konrad Hoffmann Silva --> here 👋
+# Hi there, I'm Konrad Hoffmann Silva! 👋
 
-### Personal info
-Im 18yo </br>
-Pronouns: Sus/Amogus </br></br>
+Welcome to my GitHub profile! I'm an **Applied Informatics** student from **Tarnowskie Góry, Poland**, with a strong passion for computer science, advanced mathematics, and problem-solving.
 
-### What im working on
-Anything that takes my interest</br></br>
+## 👨‍💻 About Me
+- 🎓 Currently studying **Applied Informatics** (Matematyka Stosowana) at **Politechnika Śląska**.
+- 🔭 My academic focus revolves around Object-Oriented Programming, Data Structures, Algorithms, and Applied Mathematics (calculus, algebra, logic).
+- ⚙️ I have a strong interest in network administration, system configurations (BIOS/UEFI), and digital systems.
+- 💼 I balance my heavy academic workload with part-time work (and I even hold a forklift certification!).
+- 🌍 When I'm not studying or coding, I love traveling—like my recent trip to Spain!
 
-### Contact
-Want to talk to me? </br>
-Contact me here: </br>
- - Discord: amiquito
- - amiquitooriginal@gmail.com
+## 🛠️ Tech Stack & Skills
+- **Languages:** C++ (Proficient in memory management & OOP), Java (Basics)
+- **Tools & Software:** LaTeX, Wolfram Mathematica, Cisco Packet Tracer
+- **Core Knowledge:** Applied Calculus, Boolean Algebra, Discrete Mathematics, Network Troubleshooting
 
+## 🎮 Hobbies & Interests
+- 🎬 **Cinema:** Huge fan of international cinema and Oscar-nominated films.
+- 🕹️ **Gaming:** Always down for a run in *The Binding of Isaac*, strategizing in *Bloons TD 6*, or exploring my Steam library.
+- ⛓️ **Tech Trends:** Keeping an eye on cryptocurrency and blockchain developments.
 
-
-<!--🌱 I’m currently learning HTML5, CSS3, JavaScript, MySQL, PHP, C# </br>
-🔭 I’m currently working on mastering JavaScript </br>
-📫 How to reach me: </br>
-
-- Discord: AmiQuitO#0831 (best way)
-- amiquitooriginal@gmail.com
-
-⚡ Fun fact: </br>
-
-- I don't like python, it makes me go crazy!
-- C# is the best!
-
-**AmiQuitO/amiquito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+Whether you want to collaborate on a C++ project, discuss complex math problems, or just trade good movie and game recommendations, feel free to reach out!
